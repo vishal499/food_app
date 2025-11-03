@@ -61,4 +61,13 @@ npm start
 - On successful login, a JWT token is generated and stored securely.
 
 - Protected routes ensure only authenticated users can access their cart or orders.
+
+## 💡 Future Enhancements
+- 🚚 Add delivery tracking feature.
+
+- 🧾 Implement payment gateway integration.
+
+- 🌐 Deploy app on cloud (e.g., Render / Vercel + MongoDB Atlas).
+
+
   
