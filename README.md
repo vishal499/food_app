@@ -14,9 +14,17 @@ The app features a responsive design, secure authentication, and dynamic UI inte
 
 ## 🧩 Tech Stack
 - Frontend: React.js, CSS
--Backend: Node.js, Express.js
+- Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JSON Web Token (JWT)
 - Other Tools: Axios, Mongoose, Bcrypt
+
+## Run Locally
+
+**Clone the project**
+
+```bash
+git clone https://github.com/vishal499/food_app
+```
 
   
