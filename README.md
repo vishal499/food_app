@@ -11,3 +11,12 @@ The app features a responsive design, secure authentication, and dynamic UI inte
 - 📦 Order Management: Place and manage orders easily with backend API support.
 - 💻 Responsive UI: Works seamlessly across desktop and mobile screens.
 - ⚙️ RESTful APIs: Built for scalability and smooth frontend-backend communication.
+
+## 🧩 Tech Stack
+- Frontend: React.js, CSS
+-Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JSON Web Token (JWT)
+- Other Tools: Axios, Mongoose, Bcrypt
+
+  
