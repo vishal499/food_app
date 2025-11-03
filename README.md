@@ -42,5 +42,10 @@ npm install
 ```
 
 
+**Start the backend server**
 
+```bash
+cd ../backend
+nodemon .\index.js
+```
   
