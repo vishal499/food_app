@@ -27,4 +27,20 @@ The app features a responsive design, secure authentication, and dynamic UI inte
 git clone https://github.com/vishal499/food_app
 ```
 
+**Install dependencies for backend**
+
+```bash
+cd backend
+npm install
+```
+
+**Install dependencies for frontend**
+
+```bash
+cd ../frontend
+npm install
+```
+
+
+
   
