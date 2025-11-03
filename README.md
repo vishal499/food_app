@@ -69,5 +69,8 @@ npm start
 
 - 🌐 Deploy app on cloud (e.g., Render / Vercel + MongoDB Atlas).
 
+## Screenshots
+  
+
 
   
