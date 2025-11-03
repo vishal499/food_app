@@ -54,4 +54,11 @@ nodemon .\index.js
 cd ../frontend
 npm start
 ```
+
+## 🔐 Authentication Flow
+- Users register with their email and password.
+
+- On successful login, a JWT token is generated and stored securely.
+
+- Protected routes ensure only authenticated users can access their cart or orders.
   
