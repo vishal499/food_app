@@ -48,4 +48,10 @@ npm install
 cd ../backend
 nodemon .\index.js
 ```
+**Start the frontend server**
+
+```bash
+cd ../frontend
+npm start
+```
   
